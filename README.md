@@ -139,7 +139,7 @@ python3 bot.py
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 😇CREATOR » [Mikey Sama](https://t.me/bloody_mikey)</b>
+<b> 😇CREATOR » [Mr.singh(https://github.com/Moviereq09bot/WEDNESDAY-BOT.git))</b>
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
